@@ -42,5 +42,20 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Screens
 
 ![ screen](https://i.imgur.com/MyGYxX4.png)
+![ screen](https://i.imgur.com/nnQTumN.png)
+![ screen](https://i.imgur.com/VP6nZYC.png)
+![ screen](https://i.imgur.com/nGVVGMn.png)
+![ screen](https://i.imgur.com/cVyEQTL.png)
+![ screen](https://i.imgur.com/8wPQeDa.png)
+![ screen](https://i.imgur.com/C7G0qhy.png)
+![ screen](https://i.imgur.com/n8hvk4J.png)
+![ screen](https://i.imgur.com/di1fTJs.png)
+![ screen](https://i.imgur.com/ka755HO.png)
+![ screen](https://i.imgur.com/Dzzs4FN.png)
+
+
+
+
+
 
 
